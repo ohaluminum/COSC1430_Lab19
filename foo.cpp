@@ -59,7 +59,7 @@ string Foo::toString()
 	string str;
 
 	ostringstream outSS;
-	outSS << number << ":" << name << endl;
+	outSS << number << ":" << name;
 
 	str = outSS.str();
 
