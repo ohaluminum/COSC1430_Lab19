@@ -21,4 +21,4 @@ public:
 	string toString();
 };
 
-#endif foo_h
+#endif
